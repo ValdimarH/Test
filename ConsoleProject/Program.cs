@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleProject
 {
-    class Program
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
         }
     }
