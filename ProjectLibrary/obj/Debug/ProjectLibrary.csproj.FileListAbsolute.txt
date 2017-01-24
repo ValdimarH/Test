@@ -1,0 +1,5 @@
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\bin\Debug\ProjectLibrary.dll
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.csprojResolveAssemblyReference.cache
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.dll
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.pdb

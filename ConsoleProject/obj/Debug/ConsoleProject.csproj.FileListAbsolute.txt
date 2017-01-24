@@ -1,0 +1,6 @@
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\bin\Debug\ConsoleProject.exe
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\bin\Debug\ConsoleProject.pdb
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\obj\Debug\ConsoleProject.exe
+c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ConsoleProject\obj\Debug\ConsoleProject.pdb
