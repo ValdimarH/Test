@@ -11,6 +11,6 @@ namespace ServiceProject
     public interface ISomeService
     {
         [OperationContract]
-        void DoWork();
+        int MultNumbers();
     }
 }

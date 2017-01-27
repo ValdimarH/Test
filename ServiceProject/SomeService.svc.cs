@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjectLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -11,8 +12,11 @@ namespace ServiceProject
     // NOTE: In order to launch WCF Test Client for testing this service, please select SomeService.svc or SomeService.svc.cs at the Solution Explorer and start debugging.
     public class SomeService : ISomeService
     {
-        public void DoWork()
+        public int MultNumbers()
         {
+            const int number = 10;
+            const int largeNumber = 100;
+            return Class1.multiplyNumbers(number, largeNumber);
         }
     }
 }
