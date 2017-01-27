@@ -3,3 +3,8 @@ c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\b
 c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.csprojResolveAssemblyReference.cache
 c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.dll
 c:\users\hjalt\documents\visual studio 2015\Projects\AppProject\ProjectLibrary\obj\Debug\ProjectLibrary.pdb
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\ProjectLibrary\bin\Debug\ProjectLibrary.dll
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\ProjectLibrary\obj\Debug\ProjectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\ProjectLibrary\obj\Debug\ProjectLibrary.dll
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\ProjectLibrary\obj\Debug\ProjectLibrary.pdb

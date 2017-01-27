@@ -1,0 +1,5 @@
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\hjalt\Documents\Visual Studio 2015\Projects\Test\UnitTestProject\obj\Debug\UnitTestProject.pdb
